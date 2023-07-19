@@ -1,0 +1,15 @@
+C:\Users\mbalandina\Desktop\GeekBrains Homework\Seminar7\HomeWork50\bin\Debug\net6.0\HomeWork50.exe
+C:\Users\mbalandina\Desktop\GeekBrains Homework\Seminar7\HomeWork50\bin\Debug\net6.0\HomeWork50.deps.json
+C:\Users\mbalandina\Desktop\GeekBrains Homework\Seminar7\HomeWork50\bin\Debug\net6.0\HomeWork50.runtimeconfig.json
+C:\Users\mbalandina\Desktop\GeekBrains Homework\Seminar7\HomeWork50\bin\Debug\net6.0\HomeWork50.dll
+C:\Users\mbalandina\Desktop\GeekBrains Homework\Seminar7\HomeWork50\bin\Debug\net6.0\HomeWork50.pdb
+C:\Users\mbalandina\Desktop\GeekBrains Homework\Seminar7\HomeWork50\obj\Debug\net6.0\HomeWork50.csproj.AssemblyReference.cache
+C:\Users\mbalandina\Desktop\GeekBrains Homework\Seminar7\HomeWork50\obj\Debug\net6.0\HomeWork50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbalandina\Desktop\GeekBrains Homework\Seminar7\HomeWork50\obj\Debug\net6.0\HomeWork50.AssemblyInfoInputs.cache
+C:\Users\mbalandina\Desktop\GeekBrains Homework\Seminar7\HomeWork50\obj\Debug\net6.0\HomeWork50.AssemblyInfo.cs
+C:\Users\mbalandina\Desktop\GeekBrains Homework\Seminar7\HomeWork50\obj\Debug\net6.0\HomeWork50.csproj.CoreCompileInputs.cache
+C:\Users\mbalandina\Desktop\GeekBrains Homework\Seminar7\HomeWork50\obj\Debug\net6.0\HomeWork50.dll
+C:\Users\mbalandina\Desktop\GeekBrains Homework\Seminar7\HomeWork50\obj\Debug\net6.0\refint\HomeWork50.dll
+C:\Users\mbalandina\Desktop\GeekBrains Homework\Seminar7\HomeWork50\obj\Debug\net6.0\HomeWork50.pdb
+C:\Users\mbalandina\Desktop\GeekBrains Homework\Seminar7\HomeWork50\obj\Debug\net6.0\HomeWork50.genruntimeconfig.cache
+C:\Users\mbalandina\Desktop\GeekBrains Homework\Seminar7\HomeWork50\obj\Debug\net6.0\ref\HomeWork50.dll
